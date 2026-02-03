@@ -1,14 +1,9 @@
 {
   "basics": {
     "name": "Seonguk Moon",
-    "label": "",
-    "image": "",
     "email": "uky6202@snu.imo.ac.kr",
-    "phone": "",
     "summary": "Graduated student",
     "location": {
-      "address": "",
-      "postalCode": "",
       "city": "Seoul",
       "countryCode": "KR",
       "region": "South Korea"

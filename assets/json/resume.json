@@ -25,7 +25,6 @@
     {
       "name": "Intelligent Motion Lab",
       "position": "Graduated Student (MS & Ph.D)",
-      "location": "",
       "startDate": "2025-01-01",
       "endDate": "",
       "summary": "",
@@ -34,7 +33,6 @@
     {
       "name": "Intelligent Motion Lab",
       "position": "Research Intern",
-      "location": "",
       "startDate": "2024-01-01",
       "endDate": "2025-01-01",
       "summary": "",
@@ -43,7 +41,6 @@
     {
       "name": "Robot and Control System Lab",
       "position": "Undergraduate Research Assistant",
-      "location": "Prague, Czechoslovakia",
       "startDate": "2021-01-01",
       "endDate": "2024-01-01",
       "summary": "",
@@ -52,7 +49,6 @@
     {
       "name": "Software Developement Lab",
       "position": "Undergraduate Research Assistant",
-      "location": "",
       "startDate": "2018-01-01",
       "endDate": "2019-01-01",
       "summary": "",
@@ -63,7 +59,6 @@
   "education": [
     {
       "institution": "Seoul National University",
-      "location": "",
       "url": "",
       "area": "Artificial Intelligence",
       "studyType": "MS & PhD",
@@ -75,7 +70,6 @@
     },
     {
       "institution": "Seokyeong University",
-      "location": "",
       "url": "",
       "area": "Computer Engineering",
       "studyType": "BS",

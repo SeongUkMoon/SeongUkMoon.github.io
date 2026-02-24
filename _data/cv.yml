@@ -15,7 +15,7 @@ cv:
   sections:
     Education:
       - institution: Seoul National University
-        location: ""
+        # location: ""
         url: ""
         area: Artificial Intelligence
         studyType: MS & PhD
@@ -26,7 +26,7 @@ cv:
         highlights: ""
 
       - institution: Seokyeong University
-        location: ""
+        # location: ""
         area: Computer Engineering
         studyType: BS
         start_date: 2018
